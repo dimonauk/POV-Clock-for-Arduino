@@ -1,6 +1,8 @@
 # POV-Clock-for-Arduino
 A Persistence of Vision clock for the Arduino platform
 
+intial README created: 5/3/2015
+
 This is a simple clock based on the Arduino Uno. The circuit has been
 breadboarded and tested with the software. Note that the clock does
 not use a real-time clock (RTC) module or sub-circuit, so the long-term
